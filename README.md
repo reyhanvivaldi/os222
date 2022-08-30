@@ -8,4 +8,3 @@ Operating Systems 2022-2 (Odd Semester 22/23)
 <br><br>
 <span style="color:red; font-weight:bold; font-size:larger;">Hi, there!</span>
 <hr>
-Version: {{ site.version }}
