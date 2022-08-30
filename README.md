@@ -6,6 +6,6 @@ Operating Systems 2022-2 (Odd Semester 22/23)
 [myLOG](TXT/mylog.txt) ---
 [GitHub](https://github.com/reyhanvivaldi/os222/)
 <br><br>
-<span style="color:red; font-weight:bold; font-size:larger;">This is the WAY!</span>
+<span style="color:red; font-weight:bold; font-size:larger;">Hi, there!</span>
 <hr>
 Version: {{ site.version }}
