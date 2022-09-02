@@ -5,3 +5,4 @@ ZCZC WEEK00 100 L02 ZOOM meetings related
 ZCZC WEEK00 60 L03 GitHub and git related, including commit, push, pull
 ZCZC WEEK00 5 L04 GitHub Pages related
 ZCZC WEEK00 100 L02 ZOOM meetings related
+ZCZC WEEK00 60 L10 Assignment #00
