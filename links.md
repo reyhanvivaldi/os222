@@ -1,5 +1,5 @@
 ---
-permalink: LINKS/
+permalink: /LINKS/
 ---
 
 # Welcome to Rey's OS222 Github Repository!
