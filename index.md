@@ -6,6 +6,6 @@
 
 <br>
 <hr>
-&copy; {{ site.copyright }} -- {{ site.author }} -- Version: {{ site.version }}.
+&copy; 2022 | reyv
 <hr>
 <br>
