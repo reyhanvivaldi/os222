@@ -5,4 +5,5 @@ Here are some links that may useful for you!
 [![LINKS](https://img.shields.io/badge/LINKS-0054F7?style=for-the-badge&logoColor=white)](LINKS/)
 [![GITHUB](https://img.shields.io/badge/GITHUB-F24E1E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reyhanvivaldi/os222) 
 
+<br>
 © 2022 | reyv
