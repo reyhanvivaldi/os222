@@ -1,6 +1,4 @@
-Operating Systems 222 (Odd Semester 2022/2023)
-
-# WELCOME TO REY'S GITHUB
+# Welcome to Rey's OS222 Github Repository!
 Here are some links that may useful for you!
 
 [![LOG](https://img.shields.io/badge/LOG-298D46?style=for-the-badge&logoColor=white)](TXT/mylog.txt)
