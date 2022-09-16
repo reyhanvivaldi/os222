@@ -17,3 +17,8 @@ ZCZC WEEK01 20 L27 SSH, key-gen, tunneling, putty, winscp
 ZCZC WEEK01 20 L61 Install/Reinstall/Restore/Backup Virtual Box
 ZCZC WEEK01 20 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
 ZCZC WEEK01 30 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC WEEK02 180 L13 Assignment #03
+ZCZC WEEK02 100 L02 ZOOM meetings related
+ZCZC WEEK02 100 L02 ZOOM meetings related
+ZCZC WEEK02 60 L72 Online Related Job, merchant, etc.
+ZCZC WEEK02 10 L41 TXT/mylog.txt related.
