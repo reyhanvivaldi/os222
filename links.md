@@ -5,7 +5,7 @@ permalink: LINKS/
 # Welcome to Rey's OS222 Repository!
 
 [![LOG](https://img.shields.io/badge/LOG-298D46?style=for-the-badge&logoColor=white)](TXT/mylog.txt)
-[![LINKS](https://img.shields.io/badge/LINKS-0054F7?style=for-the-badge&logoColor=white)](LINKS/)
+[![LINKS](https://img.shields.io/badge/LINKS-0054F7?style=for-the-badge&logoColor=white)](https://reyhanvivaldi.github.io/os222/LINKS/)
 [![GITHUB](https://img.shields.io/badge/GITHUB-F24E1E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reyhanvivaldi/os222) 
 
 Here you can find links that I found helpful.
