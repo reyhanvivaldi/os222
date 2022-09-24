@@ -10,11 +10,11 @@ permalink: LINKS/
 
 Here you can find links that I found helpful.
 
-##Week 0
+## Week 0
 1. [Learn about Operating Systems in 1 minute](https://www.youtube.com/watch?v=fkGCLIQx1MI)<br>
 This video explains operating system definitions with animation so that it's fun to watch.
 
-##Week 1
+## Week 1
 1. [Basic Vi Commands](https://www.marquette.edu/mathematical-and-statistical-sciences/basic-vi-editor-commands.php)<br>
 This site consists about commands that you can do with Vi. I think it's pretty easy to understand.
 2. [Markdown Guide](https://www.markdownguide.org/)<br>
@@ -24,7 +24,7 @@ I think this github repository is useful if you want to learn about Markdown or 
 4. [Nano's Shortcuts](https://www.nano-editor.org/dist/latest/cheatsheet.html)<br>
 Here you can find cheatsheet about Nano commands.
 
-#Week 2
+## Week 2
 1. [C Cheatheets](https://cheatography.com/ashlyn-black/cheat-sheets/c-reference/)<br>
 This site contains cheatsheet for C language that I think very useful, eventough I'm newbie to C.
 2. [Crypthography](https://www.synopsys.com/glossary/what-is-cryptography.html)<br>
@@ -34,7 +34,7 @@ I think this site is very useful for you who want to learn SHA256, even if you'r
 4. [Are Macs really safer?](https://www.youtube.com/watch?v=-PIPMndlTqA)<br>
 This video is fun to watch, because it explains why mac isn't really safer than other operating system.
 
-#Week 3
+## Week 3
 1. [GnuPG/GPG](https://medium.com/kode-dan-kodean/belajar-memakai-gnu-privacy-guard-gnupg-gpg-3944e19dba91)<br>
 This medium site explains about GNU Privacy Guard with detail but no boring explanations.
 2. [File System Summary](https://www.guru99.com/file-systems-operating-system.html)<br>
