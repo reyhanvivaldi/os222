@@ -43,3 +43,13 @@ This site is very useful because it contains explanation about file system inclu
 This video explains about the difference between NTFS, exFAT, FAT32, and other file system.
 4. [Why are There So Many of File System? What is it actually?](https://www.howtogeek.com/196051/htg-explains-what-is-a-file-system-and-why-are-there-so-many-of-them/)<br>
 This week, we're talking about file system. This site provides explanations about file system and the reason why there are so many of them.
+
+## Week 4
+1. [Little & Big Endian](https://www.geeksforgeeks.org/little-and-big-endian-mystery/)<br>
+Geeks for geeks always give us valuable information, right? Now, what makes big endian and little endian different? Is there any mystery about them? You can find it here!
+2. [Global & Local Variable](https://www.guru99.com/local-vs-global-variable.html)<br>
+As we know, there are two kinds of variable: global and local. What are those actually? This site has the answer.
+3. [What is Virtual Memmory?](https://www.youtube.com/watch?v=qlH4-oHnBb8&ab_channel=DavidBlack-Schaffer)<br>
+In this video, we can learn about virtual memory. Do you wonder how cool that is? A memory thats not real? This video explains what virtual memory actually is.
+4. [Physical & Logical Address](https://www.javatpoint.com/os-physical-and-logical-address-space)<br>
+This is a short article about physical and logical address with understandable explanation.
