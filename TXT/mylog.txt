@@ -30,3 +30,10 @@ ZCZC WEEK03 30 L80 Waching: Movie, YouTube, TV, Netflix, etc.
 ZCZC WEEK03 60 L84 Relax, Rest, Nap, and Sleep
 ZCZC WEEK03 60 L87 Breakfast/Lunch/Dinner/Snake
 ZCZC WEEK03 60 L82 Reading Book (paper or online)
+ZCZC WEEK04 60 L14 Assignment #04
+ZCZC WEEK04 30 L82 Reading Book (paper or online)
+ZCZC WEEK04 20 L05 Quiz related including studying
+ZCZC WEEK04 60 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC WEEK04 40 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC WEEK04 10 L41 TXT/mylog.txt
+ZCZC WEEK04 60 L87 Breakfast/Lunch/Dinner/Snake
