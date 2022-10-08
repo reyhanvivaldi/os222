@@ -53,3 +53,9 @@ As we know, there are two kinds of variable: global and local. What are those ac
 In this video, we can learn about virtual memory. Do you wonder how cool that is? A memory thats not real? This video explains what virtual memory actually is.
 4. [Physical & Logical Address](https://www.javatpoint.com/os-physical-and-logical-address-space)<br>
 This is a short article about physical and logical address with understandable explanation.
+
+## Week 5
+1. [Different Types of Memory] (https://www.youtube.com/watch?v=dZcszUj5szA&ab_channel=Techquickie)<br>
+As we know, there are many kinds of memory out there. For example SRAM, DRAM, Cache, etc. This video explains something that makes them differs to one anoother.
+2. [Where does virtual memory exists?] (https://www.quora.com/Where-does-virtual-memory-exists)<br>
+Sometimes I wonder where virtual memory stores data. This quora thread will explains about where and how virtual memory works. I think this forum is interesting.

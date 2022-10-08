@@ -37,3 +37,16 @@ ZCZC WEEK04 60 L87 Breakfast/Lunch/Dinner/Snake
 ZCZC WEEK04 40 L80 Waching: Movie, YouTube, TV, Netflix, etc.
 ZCZC WEEK04 10 L41 TXT/mylog.txt
 ZCZC WEEK04 60 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC WEEK05 240 L15 Assignment #05
+ZCZC WEEK05 30 L25 C-language including Make.
+ZCZC WEEK05 60 L72 Online Related Job, merchant, etc.
+ZCZC WEEK05 60 L82 Reading Book (paper or online)
+ZCZC WEEK05 60 L72 Online Related Job, merchant, etc.
+ZCZC WEEK05 60 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC WEEK05 5 L41 TXT/mylog.txt related.
+ZCZC WEEK05 20 L43 TXT/myrank.tex related, including peer review.
+ZCZC WEEK05 8 L05 Quiz related including studying
+ZCZC WEEK05 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC WEEK05 5 L64 Helping a friend (OS related problem)
+ZCZC WEEK05 60 L82 Reading Book (paper or online)
+
