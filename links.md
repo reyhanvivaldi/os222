@@ -59,3 +59,13 @@ This is a short article about physical and logical address with understandable e
 As we know, there are many kinds of memory out there. For example SRAM, DRAM, Cache, etc. This video explains something that makes them differs to one anoother.
 2. [Where does virtual memory exists?](https://www.quora.com/Where-does-virtual-memory-exists)<br>
 Sometimes I wonder where virtual memory stores data. This quora thread will explains about where and how virtual memory works. I think this forum is interesting.
+
+## Week 6
+1. [Thread in Operating System](https://www.geeksforgeeks.org/thread-in-operating-system/)<br>
+GeeksForGeeks always have good explanation. You can learn about thread in this page.
+2. [Multithreading - Video](https://www.youtube.com/watch?v=7ENFeb-J75k)<br>
+Sometimes reading makes us feel dizzy. If you prefer to learn about thread in visual format, this is it.
+3. [Multitasking vs Multithreading vs Multiprocessing](https://www.youtube.com/watch?v=Tn0u-IIBmtc)<br>
+After studying about thread and multithreading, we may wonder what makes it differs to multitasking and multiprocessing. This video explains about their differences with good explanation.
+4. [Advantages and Disadvantages of a Multithreading](https://docs.oracle.com/cd/E13203_01/tuxedo/tux71/html/pgthr5.htm)<br>
+Yes multithreading is useful, but what is the pros and cons of multithreading actually? This site answers that question without long-winded explanation. 
