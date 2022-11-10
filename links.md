@@ -69,3 +69,9 @@ Sometimes reading makes us feel dizzy. If you prefer to learn about thread in vi
 After studying about thread and multithreading, we may wonder what makes it differs to multitasking and multiprocessing. This video explains about their differences with good explanation.
 4. [Advantages and Disadvantages of a Multithreading](https://docs.oracle.com/cd/E13203_01/tuxedo/tux71/html/pgthr5.htm)<br>
 Yes multithreading is useful, but what is the pros and cons of multithreading actually? This site answers that question without long-winded explanation. 
+
+## Week 7
+1. [Synchronization in Operating System](https://study.com/academy/lesson/process-synchronization-in-operating-systems-definition-mechanisms.html)<br>
+This page site explains about the process of synchronization, whis is a way to coordinate processes that use shared data.
+2. [Peterson's Algorithm in Synchronization](https://www.geeksforgeeks.org/petersons-algorithm-in-process-synchronization/)<br>
+This algorithm is used to synchronize several processes. GeeksForGeeks always explain topics with understandable sentences right?
