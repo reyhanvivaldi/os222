@@ -79,4 +79,15 @@ ZCZC WEEK07 30 L07 Demo related
 ZCZC WEEK07 10 L05 Quiz related including studying
 ZCZC WEEK07 10 L03 GitHub and git related, including commit, push, pull
 ZCZC WEEK07 30 L06 References/Books/Documents/Browsing/GSGS related
-
+ZCZC WEEK08 60 L18 Assignment #08
+ZCZC WEEK08 30 L25 C-language including Make.
+ZCZC WEEK08 30 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC WEEK08 10 L41 TXT/mylog.txt related.
+ZCZC WEEK08 20 L43 TXT/myrank.tex related, including peer review.
+ZCZC WEEK08 180 L70 Studying for other courses.
+ZCZC WEEK08 180 L18 Assignment #08
+ZCZC WEEK08 30 L21 Trying something
+ZCZC WEEK08 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC WEEK08 15 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC WEEK08 100 L02 ZOOM meetings related
+ZCZC WEEK08 30 L82 Reading Book (paper or online)

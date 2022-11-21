@@ -75,3 +75,9 @@ Yes multithreading is useful, but what is the pros and cons of multithreading ac
 This page site explains about the process of synchronization, whis is a way to coordinate processes that use shared data.
 2. [Peterson's Algorithm in Synchronization](https://www.geeksforgeeks.org/petersons-algorithm-in-process-synchronization/)<br>
 This algorithm is used to synchronize several processes. GeeksForGeeks always explain topics with understandable sentences right?
+
+## Week 8
+1. [Linux from Scratch](https://www.linuxfromscratch.org/)<br>
+This week, we learned about LFS. This site may has everything you need to know about LFS.
+2. [too long; didn't read linux from scratch](https://github.com/comfies/tldrlfs)<br>
+LFS is a great book, but I think it's not straight to the point. I found github repository to read about LFS with shorter explanation. Enjoy!
