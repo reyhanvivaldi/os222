@@ -81,3 +81,16 @@ This algorithm is used to synchronize several processes. GeeksForGeeks always ex
 This week, we learned about LFS. This site may has everything you need to know about LFS.
 2. [too long; didn't read linux from scratch](https://github.com/comfies/tldrlfs)<br>
 LFS is a great book, but I think it's not straight to the point. I found github repository to read about LFS with shorter explanation. Enjoy!
+
+## Week 9
+1. [LFS 11.0 Concept in Bahasa](https://www.youtube.com/watch?v=5m3jE0RUbUk&list=PL0gOYtekW0nvpS6LdyG9IgJm_2r5ldWbP)<br>
+Kernotex's videos are awesome. But honestly it's hard for me to understand the concept of lfs e.g how it works, the command we're doing, why we have to execute this or that, due to his British accent (?) XD. At this point, I found another playlist of LFS but it's explained in bahasa. So, it's must be easier to understand.
+
+2. [Booloader](https://en.wikipedia.org/wiki/Bootloader)<br>
+This is a Wikipedia article that explains about what and how bootloader works.
+
+3. [HDD Structure](https://www.youtube.com/watch?v=oEORcCQ62nQ><br>
+I think this Youtube video is useful for understanding the structure of HDDand how it works because it explains with animation.
+
+4. [HDD Inside While It's Running](https://www.youtube.com/watch?v=p-JJp-oLx58)<br>
+Point number 2 is the animation version. But what's actually happening inside a REAL HDD? This video is interesting to watch!
