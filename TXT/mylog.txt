@@ -91,3 +91,16 @@ ZCZC WEEK08 60 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC WEEK08 15 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
 ZCZC WEEK08 100 L02 ZOOM meetings related
 ZCZC WEEK08 30 L82 Reading Book (paper or online)
+ZCZC WEEK09 100 L02 ZOOM meetings related
+ZCZC WEEK09 15 L05 Quiz related including studying
+ZCZC WEEK09 30 L19 Assignment #09
+ZCZC WEEK09 10 L08 OS Chat related (WA, LIME, Telegram, Signal)
+ZCZC WEEK09 10 L41 TXT/mylog.txt related.
+ZCZC WEEK09 15 L43 TXT/myrank.tex related, including peer review.
+ZCZC WEEK09 30 L70 Studying for other courses.
+ZCZC WEEK09 30 L82 Reading Book (paper or online)
+ZCZC WEEK09 20 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC WEEK09 20 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC WEEK09 10 L71 Working (General)
+ZCZC WEEK09 60 L81 Listening: Radio, Music, etc.
+ZCZC WEEK09 30 L87 Breakfast/Lunch/Dinner/Snake
