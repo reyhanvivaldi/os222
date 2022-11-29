@@ -94,3 +94,11 @@ I think this Youtube video is useful for understanding the structure of HDDand h
 
 4. [HDD Inside While It's Running](https://www.youtube.com/watch?v=p-JJp-oLx58)<br>
 Point number 2 is the animation version. But what's actually happening inside a REAL HDD? This video is interesting to watch!
+
+## Week 10
+1. [What is SATA?](https://matthewparluhutan.github.io/os212/LINKS/shorturl.at/ghF47)<br>
+Do you wonder what SATA is? This site explains about SATA.
+2. [I/O Systems](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/13_IOSystems.html)<br>
+This is a brief that explains about I/O Systems concept in operating system. What makes this interesting is that the site also give visualizations so that we can understand better.
+3. [I/O Software Princples)(https://gcallah.github.io/OperatingSystems/IOSoftware.html)<br>
+While point number 2 explains about I/O Systems, this site gives you information about its principles when applied on software.
