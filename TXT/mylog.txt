@@ -109,3 +109,5 @@ ZCZC WEEK09 5 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Frien
 ZCZC WEEK09 20 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
 ZCZC WEEK10 100 L02 ZOOM meetings related
 ZCZC WEEK10 15 L43 TXT/myrank.tex related, including peer review.
+ZCZC WEEK10 45 L06 References/Books/Documents/Browsing/GSGS related
+
